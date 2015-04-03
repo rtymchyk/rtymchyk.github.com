@@ -1,7 +1,7 @@
 .regularBody {
 	font-family: 'Droid Serif', serif;
 	background-color: #fff;
-	font-size: 24px;
+	font-size: 20px;
 	background-color: #f0f0f0;
 }
 
@@ -36,7 +36,7 @@
 	margin: 0px;
 	list-style: none;	
 	list-style-type: none;
-	padding: 30px;
+	padding: 15px;
 }
 
 #nav ul li {
@@ -47,7 +47,7 @@
 
 #centerStage {
 	text-align: center;
-	margin-top: 200px;
+	margin-top: 150px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
