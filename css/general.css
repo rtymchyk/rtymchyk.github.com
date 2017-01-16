@@ -173,9 +173,9 @@
 
 .icon {
 	display: inline-block;
-	height: 64px;
-	width: 64px;
-	background-size: 64px 64px;
+	height: 32px;
+	width: 32px;
+	background-size: 32px 32px;
 	background-position: center center;
 	background-repeat: no-repeat;
 	margin: 5px;
